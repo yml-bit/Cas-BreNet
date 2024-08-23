@@ -1,0 +1,19 @@
+p2
+nnUNetTrainer_p2_ux.py:UXNet_3D+patchsize=(96 96 96)+inchanel=1
+nnUNetTrainer_p2_nSwi.py:nSwinunetr
+nnUNetTrainer_p2_res.py:SegResNet
+nnUNetTrainer_p2_nnf.py:nnFormer
+nnUNetTrainer_unet.py:original nnunet
+nnUNetTrainer_p2_Med.py：MedNeXt
+nnUNetTrainer_p2_Meds.py：非深度监督MedNeXt
+nnUNetTrainer_p2_x2.py：p2 Aorta-Net
+nnUNetTrainer_xc1.py:NCCT->CTA
+nnUNetTrainer_xc2.py:CTA->NCCT
+
+xy
+nnUNetTrainer_bv1.py:MedNeXt-L
+nnUNetTrainer_bv2.py:MedNeXt-M
+nnUNetTrainer_bm.py:多目标学习模型
+nnUNetTrainer_br1.py:3通道+分级步骤
+nnUNetTrainer_br2.py:3通道多分类
+nnUNetTrainer_br3.py:1通道多分类

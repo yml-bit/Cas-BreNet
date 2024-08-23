@@ -1,0 +1,23 @@
+batch_size: 1
+cache_rate: 0.1
+crop_sample: 2
+dataset: ours
+eval_step: 500
+gpu: '0'
+lr: 0.0001
+max_iter: 40000
+mode: train
+network: 3DUXNET
+num_workers: 2
+optim: AdamW
+save_root: './output/3DXUNET/model1/' #多尺度判别  pre_model0
+image_save: './output/3DXUNET/1e30/'#img2 disease    4 modify
+train_list: './data/train1.txt' # root directory of the dataset
+val_list: './data/test1.txt' #testy
+test_list: './data/test1.txt' #testd2  val1 val2 test1 test2d2
+
+output: output_folder_path
+pretrain: 'False'
+pretrained_weights: ''
+root: root_folder_path
+size: 512

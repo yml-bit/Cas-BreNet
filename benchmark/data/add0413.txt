@@ -1,0 +1,15 @@
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ423318/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ582850/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ585611/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ587847/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ588884/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ589377/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ591936/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ593301/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ594038/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ598741/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ598940/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ603137/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ605553/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ606329/0.nii.gz
+/media/bit301/data/yml/data/xy/breast/set1/add0413/XQ607602/0.nii.gz
